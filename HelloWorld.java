@@ -4,7 +4,7 @@ class Hello {
 
     public static void main(String[] args) {
 
-        JOptionPane.showMessageDialog(null, "Lory ");
+        JOptionPane.showMessageDialog(null, "Lory hey! ");
 
     }
 
